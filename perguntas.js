@@ -1,74 +1,71 @@
 criarCartao(
     'Química',
-    'O que caracteriza um hidrocarboneto?',
-    'Possuir apenas carbono e hidrogênio em sua cadeia'
+    'Qual é a principal característica dos alcanos?',
+    'Possuírem apenas ligações simples entre os átomos de carbono'
 )
-criarCartao(
-    'Química',
-    'O que é química orgânica?',
-    'É o ramo da Química que estuda os compostos de carbono.'
-)
-criarCartao(
-    'Química',
-    'Qual é a função orgânica do álcool?',
-    'Possui o grupo hidroxila (–OH) ligado a um carbono saturado.'
-)
-criarCartao(
-    'Química',
-    'O que caracteriza um alceno?',
-    'Possui pelo menos uma ligação dupla entre carbonos.'
-)
-criarCartao(
-    'Química',
-    'O que caracteriza um hidrocarboneto',
-    'Possuir apenas carbono e hidrogênio em sua cadeia'
-)
-criarCartao(
-    'Química',
-    'O que caracteriza um hidrocarboneto',
-    'Possuir apenas carbono e hidrogênio em sua cadeia'
-)
-criarCartao(
-    'Química',
-    'O que caracteriza um alcino?',
-    'Possui pelo menos uma ligação tripla entre carbonos.'
-)
+
 criarCartao(
     'Química',
     'Qual é a fórmula geral dos alcanos?',
-    'CₙH₂ₙ₊₂.'
+    'CnH₂n+₂'
 )
+
 criarCartao(
     'Química',
-    'O que caracteriza um hidrocarboneto',
-    'Possuir apenas carbono e hidrogênio em sua cadeia'
+    'O que caracteriza um alceno?',
+    'A presença de pelo menos uma ligação dupla entre carbonos'
 )
+
 criarCartao(
     'Química',
-    'O que caracteriza um hidrocarboneto',
-    'Possuir apenas carbono e hidrogênio em sua cadeia'
+    'O que caracteriza um alcino?',
+    'A presença de pelo menos uma ligação tripla entre carbonos'
 )
+
 criarCartao(
     'Química',
-    'O que caracteriza um hidrocarboneto',
-    'Possuir apenas carbono e hidrogênio em sua cadeia'
+    'Qual é a função orgânica que apresenta o grupo OH ligado a um carbono saturado?',
+    'Álcool'
 )
+
 criarCartao(
     'Química',
-    'O que caracteriza um hidrocarboneto',
-    'Possuir apenas carbono e hidrogênio em sua cadeia'
+    'Qual é o grupo funcional característico dos ácidos carboxílicos?',
+    'Carboxila (COOH)'
 )
-O que é uma cadeia carbônica?
-→ É uma sequência de átomos de carbono ligados entre si.
 
-O que são isômeros?
-→ Compostos com a mesma fórmula molecular, mas estruturas diferentes.
+criarCartao(
+    'Química',
+    'Qual é a função orgânica presente no etanol?',
+    'Álcool'
+)
 
-O que caracteriza um ácido carboxílico?
-→ A presença do grupo carboxila (–COOH).
+criarCartao(
+    'Química',
+    'Qual é a função orgânica caracterizada pela presença de um átomo de oxigênio entre dois carbonos?',
+    'Éter'
+)
 
-Qual grupo funcional caracteriza os aldeídos?
-→ O grupo –CHO.
+criarCartao(
+    'Química',
+    'O que são hidrocarbonetos aromáticos?',
+    'Compostos que possuem um ou mais anéis aromáticos em sua estrutura'
+)
 
-Qual grupo funcional caracteriza as cetonas?
-→ A carbonila (C=O) ligada a dois carbonos.
+criarCartao(
+    'Química',
+    'Qual é o principal hidrocarboneto presente no gás natural?',
+    'Metano'
+)
+
+criarCartao(
+    'Química',
+    'Qual é a fórmula molecular do benzeno?',
+    'C₆H₆'
+)
+
+criarCartao(
+    'Química',
+    'O que é isomeria na Química Orgânica?',
+    'Fenômeno em que compostos possuem a mesma fórmula molecular, mas diferentes estruturas ou arranjos dos átomos'
+)
