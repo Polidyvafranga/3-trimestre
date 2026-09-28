@@ -20,4 +20,5 @@ body{
     text-align: left;
     padding: o.5rem;
     margin: o.6rem
+    position: absolute;
 }
