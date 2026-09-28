@@ -19,6 +19,6 @@ body{
     border: 1px solid var(--fundo);
     text-align: left;
     padding: o.5rem;
-    margin: o.6rem
+    margin: o.6rem;
     position: absolute;
 }
