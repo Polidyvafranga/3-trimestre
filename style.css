@@ -32,9 +32,11 @@ body{
 }
 
 .cartao__conteudo__pergunta{
-
+     color: var(--cor-texto);
+    font-weight: 500;
 }
 
 .cartao__conteudo__resposta{
-    
+    color: var(--verso-cartao);
+    font-weight: 700;
 }
