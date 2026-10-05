@@ -31,12 +31,16 @@ body{
     font-size: 1.4vw;
 }
 
-.cartao__conteudo__pergunta{
+.cartao__conteudo__pergunta p{
      color: var(--cor-texto);
     font-weight: 500;
 }
 
-.cartao__conteudo__resposta{
+.cartao__conteudo__resposta p{
     color: var(--verso-cartao);
     font-weight: 700;
+}
+.cartao.active .cartao__conteudo{
+    transform: rotate(180deg);
+    
 }
