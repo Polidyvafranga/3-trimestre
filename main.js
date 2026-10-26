@@ -1,6 +1,6 @@
-function criarCartao('Química',
-    'Qual é a principal característica dos alcanos?',
-    'Possuírem apenas ligações simples entre os átomos de carbono'){
+function criarCartao('categoria',
+    'pergunta',
+    'resposta'){
     let container = document.getElementById('container');
     let cartao = document.createElement('article');
     cartao.className = 'cartao';
